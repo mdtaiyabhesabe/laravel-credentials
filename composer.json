@@ -1,11 +1,11 @@
 {
-    "name": "beyondcode/laravel-credentials",
+    "name": "mdtaiyabhesabe/laravel-credentials",
     "description": "Store and access encrypted credentials in your Laravel application.",
     "keywords": [
-        "beyondcode",
+        "Hesabe",
         "laravel-credentials"
     ],
-    "homepage": "https://github.com/beyondcode/laravel-credentials",
+    "homepage": "https://github.com/mdtaiyabhesabe/laravel-credentials",
     "license": "MIT",
     "authors": [
         {
